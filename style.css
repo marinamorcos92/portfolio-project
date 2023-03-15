@@ -56,3 +56,8 @@ p {
   line-height: 27px;
   padding: 15px 30px;
 }
+.project-description {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
